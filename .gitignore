@@ -1,0 +1,15 @@
+# Секреты (токен бота)
+.env
+
+# Виртуальное окружение Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Файлы настроек IDE (VS Code)
+.vscode/
+.idea/
+
+# Логи
+*.log
